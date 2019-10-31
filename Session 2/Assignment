@@ -1,0 +1,18 @@
+The assignment is to help you strengthen the concepts learnt in class.
+
+About the Dataset:
+
+The dataset is courtesy Kaggle. The dataset consists of million news headlines. 
+
+
+Assignment Tasks:
+1. Read the dataset using pandas
+2. Use functions like data.head() or data.info to understand the dataset.
+3. Perform the Pre-processing steps covered
+4. Vectorize the Reviews
+5. Perform Clustering and Obtain the optimal number of clusters from elbow method
+6. Perform clustering again with the number of cluster value obtained in (5)
+
+
+Link to Dataset:
+https://drive.google.com/drive/folders/1i59TjlqKfNg6zToET-KAempPYbYsVKKq?usp=sharing
